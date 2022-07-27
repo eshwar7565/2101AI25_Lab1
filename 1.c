@@ -25,5 +25,10 @@ switch(opn)
       printf("%f * %f = %f",x,y,x*y);
       break;
     }
+    case 4:
+    {
+      printf("%f / %f = %f",x,y,x/y);
+      break;
+    }
 
   
