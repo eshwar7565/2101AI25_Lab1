@@ -8,4 +8,10 @@ int main()
   int opn;
   printf("Select the operation (1 for +, 2 for -, 3 for *, 4 for /) = ");
   scanf("%d",&opn);
+switch(opn)
+  {
+    case 1:
+    {
+      printf("%f + %f = %f",x,y,x+y);
+      break;
   
