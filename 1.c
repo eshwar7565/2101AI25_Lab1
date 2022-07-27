@@ -3,5 +3,5 @@ int main()
 {
   float x,y;
   printf("Enter the numbers = ");
-  scanf(%f%f,&a,&b);
+  scanf(%f%f,&x,&y);
 }
