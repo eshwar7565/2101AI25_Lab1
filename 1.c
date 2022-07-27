@@ -29,6 +29,9 @@ switch(opn)
     {
       printf("%f / %f = %f",x,y,x/y);
       break;
-    }
+    } 
+  }
+  return 0;
+}
 
   
